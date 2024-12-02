@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/TobiiPro/Examples/PrefabDemo/ScreenBasedPrefabDemo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
